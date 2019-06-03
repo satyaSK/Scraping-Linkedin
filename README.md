@@ -14,6 +14,10 @@ at a variety of different companies more easily. It makes the internship/job hun
 ## So, the main purpose is
 To allow students to optimally discover and target the best companies with regards to their role of desire, without having to send out a bunch of applications to random companies just for the sake of gaining some work experience.
 
+## A sample row from the results
+
+![sample](https://user-images.githubusercontent.com/34591573/58807696-34944900-8636-11e9-9adc-9565a685449d.PNG)
+
 # Getting Started
 
 ## Dependencies
