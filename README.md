@@ -53,7 +53,9 @@ Now type in cmd:
 python 2download_profiles.py 
 ```
 Note that you might need to make small tweaks in this file. You should change all time related parameters such as ```time.sleep()``` and ```pyautogui.PAUSE``` to suite your download speed. You can run the above command after you have made these changes. Wait and watch. Profiles will open and source code will be downloaded. You will have all the profiles downloaded to your profiles directory. Keep only the profile HTML pages in the profiles directory.
-![linkedin_scraping](https://user-images.githubusercontent.com/34591573/58783071-aa2ff300-85fd-11e9-878d-06db481050da.gif)
+
+![linkedin](https://user-images.githubusercontent.com/34591573/58783465-9638c100-85fe-11e9-93d6-dc497551e10d.gif)
+
 
 ### Step 5
 Now type:
