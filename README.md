@@ -28,15 +28,15 @@ Use the ```pip install <package>``` command to install the dependencies.
 1fetch_public_links to google custom search -> 2download_profiles to download Linkedin profiles -> 3linkedin_parser to scrape data for educational purposes -> a CSV containing internship/job data will be created in your current directory -> 4linkedin_extras(optional) to extract links of links
 ```
 
-# Steps to Excecute
+## Steps to Excecute
 
-## Step 1
+### Step 1
 Create a directory, name it ```scraping```. This will be your working directory at all times. Within this directory create a directory named `profiles`. Make sure that you have setup your google custom search engine and the [generate your API key](https://developers.google.com/custom-search/v1/overview) and [Google search engine ID](https://cse.google.com/cse/all). NOTE: Toggle the ```Search the entire web``` to ```ON```
 
-## Step 2
+### Step 2
 Create 2 ```.txt``` files. One will hold a list of top domain-specific colleges(For example:Stanford, UCB, CMU etc), and the other would hold a list of well-known companies in your field. Give these files a name. For now, let's call them ```companies.txt``` and ```colleges.txt```. Make sure that the every company name is on a new line in the text file. Same for colleges.
 
-## Step 3
+### Step 3
 Open cmd in current directory and type:
 ```
 python 1fetch_public_links.py companies colleges
@@ -47,19 +47,19 @@ query_list.txt --> contains all the query result links from the Google custom se
 linkedin_list.txt --> contains only Linkedin profile links.
 ```
 
-## Step 4
+### Step 4
 Now type in cmd:
 ```
 python 2download_profiles.py 
 ```
 Note that you might need to make small tweaks in this file. You should change all time related parameters such as ```time.sleep()``` and ```pyautogui.PAUSE``` to suite your download speed. You can run the above command after you have made these changes. Wait and watch. Profiles will open and source code will be downloaded. You will have all the profiles downloaded to your profiles directory. Keep only the profile HTML pages in the profiles directory.
 
-## Step 5
+### Step 5
 Now type:
 ```
 python 3linkedin_parser.py companies colleges
 ```
 This will create a CSV file of all the scraped data in an easily readable format. To get an idea of the quantitative measure of the goodness of each company, you can also run the ```company_scores()``` function to get a CSV containing a naive score and an [ELO score](https://en.wikipedia.org/wiki/Elo_rating_system) of all the companies. You can sort the CSV file according to either of the scores to get an idea of how good the companies are. These scores are based on the assumption that the latest work experience is better than the work experience before it.
 
-## Step 6
+### Step 6
 You can play around with the code to get the most out of it. I have included functions which scrape all the available data for student use. 
