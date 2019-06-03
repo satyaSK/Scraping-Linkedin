@@ -9,8 +9,10 @@ The problem is that, when students(like myself) are in search of internships, th
 
 Finding answers to these questions is possible, but very time consuming. In no time, students find themselves stuck in the monotonous task of querying through Linkedin profiles and trying to assimmilate huge chunks of information. 
 This code repository is a bunch of scripts. Its a fast and dirty way which would allow students to scrape Linkedin for educational purposes. It would allow students to look at potential internship/job opportunities and responsibilities
-at a variety of different companies more easily. It makes the internship/job hunting experience a little less cumbersome. **It allows students to optimally target the best companies according to what they want to actually do, without having 
-to send out 100-200 applications to random companies just to gain some work ex.**
+at a variety of different companies more easily. It makes the internship/job hunting experience a little less cumbersome. 
+
+# So, the main purpose
+**To allow students to optimally discover and target the best companies with regards to their role of desire, without having to send out a bunch of applications to random companies just for the sake of gaining some work experience.**
 
 ## Dependencies
 * beautifulsoup4
