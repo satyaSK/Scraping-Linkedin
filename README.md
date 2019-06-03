@@ -1,4 +1,4 @@
-# Scraping Linkedin (Actual Python files will be added in 10 days)
+# Scraping Linkedin
 The problem is that, when students(like myself) are in search of internships, they want to get get answers to the following questions: 
 * What does a list of really good(possibly relatively less known) companies look like?
 * Can I get a list of really good companies I have never heard of?
@@ -40,7 +40,7 @@ Use the ```pip install <package>``` command to install the dependencies.
 ## Steps to Excecute
 
 ### Step 1
-Create a directory, name it ```scraping```. This will be your working directory at all times. Within this directory create a directory named `profiles`. Make sure that you have setup your google custom search engine and the [generate your API key](https://developers.google.com/custom-search/v1/overview) and [Google search engine ID](https://cse.google.com/cse/all). NOTE: Toggle the ```Search the entire web``` to ```ON```
+Download or ```git clone``` this code repository. Now, create a directory, let's call it ```LinkedinScraping```. This will be your working directory at all times. Within this directory create a directory named `profiles`. Make sure that you have setup your google custom search engine and the [generate your API key](https://developers.google.com/custom-search/v1/overview) and [Google search engine ID](https://cse.google.com/cse/all). NOTE: Toggle the ```Search the entire web``` to ```ON```
 
 ### Step 2
 Create 2 ```.txt``` files. One will hold a list of top domain-specific colleges(For example:Stanford, UCB, CMU etc), and the other would hold a list of well-known companies in your field. Give these files a name. For now, let's call them ```companies.txt``` and ```colleges.txt```. Make sure that the every company name is on a new line in the text file. Same for colleges.
