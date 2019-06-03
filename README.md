@@ -7,7 +7,7 @@ The problem is that, when students(like myself) are in search of internships, th
 * How can I get a rough idea about the quantitative measure of the goodness of all these companies? (This repo rates the companies using ELO score and a Naive score)
 * What are the previous companies of students who have interned at top companies?
 
-Finding answers to these questions is possible, but very time consuming. In no time, students find themselves stuck in the monotonous task of querying through Linkedin profiles and trying to assimmilate huge chunks of information. 
+Finding answers to these questions is possible, but very time consuming. In no time, students find themselves stuck in the monotonous task of querying through [Linkedin](https://www.linkedin.com/) profiles and trying to assimmilate huge chunks of information. 
 This code repository is a bunch of scripts. Its a fast and dirty way which would allow students to scrape Linkedin for educational purposes. It would allow students to look at potential internship/job opportunities and responsibilities
 at a variety of different companies more easily. It makes the internship/job hunting experience a little less cumbersome. 
 
