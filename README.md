@@ -12,7 +12,7 @@ This code repository is a bunch of scripts. Its a fast and dirty way which would
 at a variety of different companies more easily. It makes the internship/job hunting experience a little less cumbersome. 
 
 ## So, the main purpose is
-To allow students to optimally discover and target the best companies with regards to their role of desire, without having to send out a bunch of applications to random companies just for the sake of gaining some work experience.
+To allow students to discover and target the best companies with regards to their role of desire, without having to send out a bunch of applications to random companies just for the sake of gaining some work experience.
 
 ## Sample rows from the results
 
