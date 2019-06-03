@@ -25,10 +25,9 @@ To allow students to discover and target the best companies with regards to thei
 # Getting Started
 
 ## Dependencies
-```
+
 * beautifulsoup4
 * pyautogui
-```
 
 Use the ```pip install <package>``` command to install the dependencies.
 
