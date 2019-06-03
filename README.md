@@ -71,7 +71,7 @@ Now type:
 ```
 python 3linkedin_parser.py 
 ```
-This will create a CSV file of all the scraped data in an easily readable format. To get an idea of the quantitative measure of the goodness of each company, you can also run the ```company_scores()``` function to get a CSV containing a naive score and an [ELO score](https://en.wikipedia.org/wiki/Elo_rating_system) of all the companies. You can sort the CSV file according to either of the scores to get an idea of how good the companies are. These scores are based on the assumption that the latest work experience is better than the work experience before it.
+This will create a CSV file of all the scraped data in an easily readable format. To get an idea of the quantitative measure of the goodness of each company, you can also run the ```scrape_company_scores()``` function to get a CSV containing a naive score and an [ELO score](https://en.wikipedia.org/wiki/Elo_rating_system) of all the companies. You can sort the CSV file according to either of the scores to get an idea of how good the companies are. These scores are based on the assumption that the latest work experience is better than the work experience before it.
 
 ### Step 6
-You can play around with the code to get the most out of it. I have included functions which scrape all the available data for student use. 
+You can play around with the code to get the most out of it. All these scripts are for educational purposes only. Just making life a tiny bit easier :) 
