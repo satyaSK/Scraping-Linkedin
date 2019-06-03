@@ -1,4 +1,4 @@
-# Scraping Linkedin 
+# Scraping Linkedin (Actual Python files will be added in 7 days)
 The problem is that, when students(like myself) are in search of internships, they want to get get answers to the following questions: 
 * What does a list of really good(possibly relatively less known) companies look like?
 * Can I get a list of really good companies I have never heard of?
