@@ -1,4 +1,4 @@
-# Scraping Linkedin (Actual Python files will be added in 7 days)
+# Scraping Linkedin (Actual Python files will be added in 10 days)
 The problem is that, when students(like myself) are in search of internships, they want to get get answers to the following questions: 
 * What does a list of really good(possibly relatively less known) companies look like?
 * Can I get a list of really good companies I have never heard of?
@@ -11,9 +11,6 @@ Finding answers to these questions is possible, but very time consuming. In no t
 This code repository is a bunch of scripts. Its a fast and dirty way which would allow students to scrape Linkedin for educational purposes. It would allow students to look at potential internship/job opportunities and responsibilities
 at a variety of different companies more easily. It makes the internship/job hunting experience a little less cumbersome. 
 
-## So, the main purpose is
-To allow students to discover and target the best companies with regards to their role of desire, without having to send out a bunch of applications to random companies just for the sake of gaining some work experience.
-
 ## Sample rows from the results
 
 ![sample](https://user-images.githubusercontent.com/34591573/58807696-34944900-8636-11e9-9adc-9565a685449d.PNG)
@@ -21,6 +18,10 @@ To allow students to discover and target the best companies with regards to thei
 ![sample2](https://user-images.githubusercontent.com/34591573/58808245-4c200180-8637-11e9-8e5a-9d100d9bebbd.PNG)
 
 ![sample3](https://user-images.githubusercontent.com/34591573/58808287-61952b80-8637-11e9-918f-2743fc1bc7c1.PNG)
+
+## So, the main purpose is
+To allow students to discover and target the best companies with regards to their role of desire, without having to send out a bunch of applications to random companies just for the sake of gaining some work experience.
+
 
 # Getting Started
 
